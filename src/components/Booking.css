@@ -1,0 +1,62 @@
+/* src/components/Booking.css */
+
+.booking-container {
+  background-color: #fff9f3;
+  padding: 40px 20px;
+  font-family: "Georgia", serif;
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+.booking-container h2 {
+  text-align: center;
+  color: #d35400;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.booking-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.booking-form label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #5c3c02;
+}
+
+.booking-form input,
+.booking-form select {
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+  font-family: inherit;
+  transition: border-color 0.3s ease;
+}
+
+.booking-form input:focus,
+.booking-form select:focus {
+  border-color: #d35400;
+  outline: none;
+  box-shadow: 0 0 5px rgba(211, 84, 0, 0.3);
+}
+
+.booking-form button {
+  background-color: #d35400;
+  color: white;
+  border: none;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.booking-form button:hover {
+  background-color: #b84300;
+}

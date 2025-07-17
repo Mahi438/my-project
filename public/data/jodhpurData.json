@@ -1,0 +1,92 @@
+{
+  "restaurants": [
+    {
+      "name": "Indique Restaurant",
+      "description": "Rooftop dining with a view of Mehrangarh Fort.",
+      "contact": "0291-2614617",
+      "price": "₹500 per person",
+      "image": "/assets/restaurants/indique.jpg"
+    },
+    {
+      "name": "Gypsy Dining Hall",
+      "description": "Authentic Rajasthani thali experience.",
+      "contact": "0291-2438285",
+      "price": "₹300 per person",
+      "image": "/assets/restaurants/gypsy.jpg"
+    },
+    {
+      "name": "On The Rocks",
+      "description": "Garden restaurant with diverse cuisine.",
+      "contact": "0291-2511021",
+      "price": "₹800 per person",
+      "image": "/assets/restaurants/Rocks.jpg"
+    },
+    {
+      "name": "Stepwell Cafe",
+      "description": "Cafe beside Toorji Ka Jhalra with local flavors.",
+      "contact": "0291-2614214",
+      "price": "₹400 per person",
+      "image": "/assets/restaurants/stepwell.jpg"
+    }
+  ],
+  "places": [
+    {
+      "name": "Mehrangarh Fort",
+      "description": "One of India's largest forts with a museum.",
+      "timing": "9:00 AM – 5:00 PM",
+      "entryFee": "₹100",
+      "image": "/assets/places/Mehrangarh.jpg"
+    },
+    {
+      "name": "Jaswant Thada",
+      "description": "Royal marble cenotaphs near the fort.",
+      "timing": "9:00 AM – 5:00 PM",
+      "entryFee": "₹30",
+      "image": "/assets/places/thada.jpg"
+    },
+    {
+      "name": "Clock Tower & Sardar Market",
+      "description": "Local shopping and street food area.",
+      "timing": "10:00 AM – 9:00 PM",
+      "entryFee": "Free",
+      "image": "/assets/places/tower.jpg"
+    },
+    {
+      "name": "Toorji Ka Jhalra",
+      "description": "Historic stepwell in the old city.",
+      "timing": "Open all day",
+      "entryFee": "Free",
+      "image": "/assets/places/toorji.jpg"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Umaid Bhawan Palace",
+      "description": "Heritage luxury hotel with palace experience.",
+      "contact": "0291-2510101",
+      "price": "₹25,000 per night",
+      "image": "/assets/hotels/umaid.jpg"
+    },
+    {
+      "name": "RAAS Jodhpur",
+      "description": "Boutique hotel with a view of Mehrangarh.",
+      "contact": "0291-2636455",
+      "price": "₹12,000 per night",
+      "image": "/assets/hotels/raas.jpg"
+    },
+    {
+      "name": "Ratan Vilas",
+      "description": "Traditional haveli-style stay.",
+      "contact": "0291-2512897",
+      "price": "₹6,000 per night",
+      "image": "/assets/hotels/ratan.jpg"
+    },
+    {
+      "name": "The Ajit Bhawan",
+      "description": "First heritage hotel of India.",
+      "contact": "0291-2513333",
+      "price": "₹10,000 per night",
+      "image": "/assets/hotels/ajit.jpg"
+    }
+  ]
+}

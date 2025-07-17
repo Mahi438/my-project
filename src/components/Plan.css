@@ -1,0 +1,67 @@
+.plan-container {
+  padding: 50px 20px;
+  background: #fff6f0;
+  font-family: 'Georgia', serif;
+  display: flex;
+  justify-content: center;
+}
+
+.plan-box {
+  background: #fff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  width: 100%;
+}
+
+.plan-box h1 {
+  color: #d35400;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.plan-form label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+  color: #5a3200;
+}
+
+.plan-form input,
+.plan-form select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.plan-btn {
+  margin-top: 25px;
+  background: #c95c00;
+  color: #fff;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  width: 100%;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.plan-btn:hover {
+  background-color: #a84800;
+}
+.fare-summary {
+  margin-top: 20px;
+  padding: 15px;
+  border: 2px solid #dcdcdc;
+  border-radius: 12px;
+  background-color: #f8f8f8;
+  color: #333;
+}
+.fare-summary p {
+  margin: 6px 0;
+}

@@ -1,0 +1,89 @@
+{
+  "restaurants": [
+    {
+      "name": "Ambrai Restaurant",
+      "description": "Lakefront restaurant with a view of City Palace, offering Rajasthani and Mughlai dishes.",
+      "price": "₹800 - ₹1500 for two",
+      "contact": "+91 294 2431085",
+      "image": "/assets/restaurants/ambrai.jpg"
+    },
+    {
+      "name": "Upre by 1559 AD",
+      "description": "Fine rooftop dining with romantic lake views and candle-lit ambiance.",
+      "price": "₹1000 - ₹1800 for two",
+      "contact": "+91 9116120155",
+      "image": "/assets/restaurants/upre.jpg"
+    },
+    {
+      "name": "Natraj Dining Hall",
+      "description": "Popular for unlimited Rajasthani & Gujarati thalis served traditionally.",
+      "price": "₹500 for two",
+      "contact": "+91 294 2419835",
+      "image": "/assets/restaurants/natraj.jpg"
+    },
+    {
+      "name": "Jheel’s Rooftop Cafe",
+      "description": "Casual rooftop cafe offering coffee, pasta, sandwiches with a lakeside view.",
+      "price": "₹400 - ₹800 for two",
+      "contact": "+91 8769538574",
+      "image": "/assets/restaurants/jheel.jpg"
+    }
+  ],
+
+  "places": [
+  {
+    "name": "City Palace",
+    "description": "A grand palace complex offering rich history, museums, and panoramic views of Lake Pichola.",
+    "timing": "9:30 AM – 5:30 PM",
+    "entryFee": "₹300 for adults, ₹100 for children",
+    "image": "/assets/places/city.jpg"
+  },
+  {
+    "name": "Lake Pichola",
+    "description": "A picturesque man-made lake famous for sunset boat rides and scenic beauty.",
+    "timing": "10:00 AM – 5:00 PM (Boat rides)",
+    "entryFee": "₹400 (boat ride), ₹700 (sunset boat ride)",
+    "image": "/assets/places/pichola.jpg"
+  },
+  {
+    "name": "Sajjangarh Palace (Monsoon Palace)",
+    "description": "Hilltop palace with panoramic city views; perfect for sunsets and photography.",
+    "timing": "9:00 AM – 6:00 PM",
+    "entryFee": "₹60 (Indians), ₹300 (Foreigners), ₹40 (Camera)",
+    "image": "/assets/places/sajjangarh.jpg"
+  },
+  {
+    "name": "Bagore Ki Haveli",
+    "description": "18th-century haveli museum showcasing royal artifacts and evening cultural dance shows.",
+    "timing": "9:30 AM – 5:30 PM (Museum), 7:00 PM – 8:00 PM (Show)",
+    "entryFee": "₹60 (Museum), ₹90 (Dance Show), ₹150 (Camera)",
+    "image": "/assets/places/haveli.jpg"
+  }
+],
+  "hotels": [
+    {
+      "name": "Taj Lake Palace",
+      "price": "₹35,000+ per night",
+      "contact": "+91 294 2428800",
+      "image": "/assets/hotels/taj.jpg"
+    },
+    {
+      "name": "The Oberoi Udaivilas",
+      "price": "₹40,000+ per night",
+      "contact": "+91 294 2433300",
+      "image": "/assets/hotels/oberoi.jpg"
+    },
+    {
+      "name": "Hotel Lakend",
+      "price": "₹7,000 per night",
+      "contact": "+91 294 2425121",
+      "image": "/assets/hotels/lakend.jpg"
+    },
+    {
+      "name": "Hotel Hilltop Palace",
+      "price": "₹3,500 per night",
+      "contact": "+91 294 2432245",
+      "image": "/assets/hotels/hilltop.jpg"
+    }
+  ]
+}

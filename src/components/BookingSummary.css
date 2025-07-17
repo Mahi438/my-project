@@ -1,0 +1,49 @@
+/* src/components/BookingSummary.css */
+
+.summary-container {
+  padding: 40px;
+  font-family: "Georgia", serif;
+  text-align: center;
+  background-color: #fff8ee;
+  color: #5a3200;
+}
+
+.summary-heading {
+  color: #d35400;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.summary-box {
+  background: #fff;
+  border-radius: 12px;
+  padding: 30px;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.summary-box hr {
+  margin: 15px 0;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+
+.home-button {
+  margin-top: 30px;
+  padding: 10px 20px;
+  background-color: #d35400;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.home-button:hover {
+  background-color: #b84300;
+}
