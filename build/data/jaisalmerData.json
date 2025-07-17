@@ -1,0 +1,92 @@
+{
+  "restaurants": [
+    {
+      "name": "The Trio",
+      "description": "Multi-cuisine restaurant near fort.",
+      "contact": "02992-252331",
+      "price": "₹400 per person",
+      "image": "/assets/restaurants/cuisine.jpg"
+    },
+    {
+      "name": "Desert Boy’s Dhani",
+      "description": "Traditional dining in mud huts.",
+      "contact": "02992-252150",
+      "price": "₹300 per person",
+      "image": "/assets/restaurants/dhani.jpg"
+    },
+    {
+      "name": "Suryagarh Restaurant",
+      "description": "Luxury hotel dining experience.",
+      "contact": "02992-269269",
+      "price": "₹1200 per person",
+      "image": "/assets/restaurants/suryagarh.jpg"
+    },
+    {
+      "name": "Free Tibet Restaurant",
+      "description": "Tibetan cuisine with rooftop views.",
+      "contact": "02992-252122",
+      "price": "₹350 per person",
+      "image": "/assets/restaurants/tibet.jpg"
+    }
+  ],
+  "places": [
+    {
+      "name": "Jaisalmer Fort",
+      "description": "Golden sandstone fort with temples and markets.",
+      "timing": "9:00 AM – 6:00 PM",
+      "entryFee": "₹100",
+      "image": "/assets/places/jaf.jpg"
+    },
+    {
+      "name": "Patwon Ki Haveli",
+      "description": "Intricately carved merchant mansion.",
+      "timing": "9:00 AM – 5:00 PM",
+      "entryFee": "₹50",
+      "image": "/assets/places/patwon.jpg"
+    },
+    {
+      "name": "Sam Sand Dunes",
+      "description": "Desert safari and camel ride destination.",
+      "timing": "4:00 PM – 9:00 PM",
+      "entryFee": "Free (Safari costs extra)",
+      "image": "/assets/places/sam.jpg"
+    },
+    {
+      "name": "Gadisar Lake",
+      "description": "Scenic lake with boating and temples.",
+      "timing": "8:00 AM – 8:00 PM",
+      "entryFee": "₹20",
+      "image": "/assets/places/gadisar.jpg"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Suryagarh",
+      "description": "Luxury palace hotel in the Thar Desert.",
+      "contact": "02992-269269",
+      "price": "₹20,000 per night",
+      "image": "/assets/hotels/garh.jpg"
+    },
+    {
+      "name": "Fort Rajwada",
+      "description": "Heritage resort with traditional decor.",
+      "contact": "02992-251060",
+      "price": "₹8,000 per night",
+      "image": "/assets/hotels/rajwada.jpg"
+    },
+    {
+      "name": "Desert Tulip Hotel",
+      "description": "Comfortable stay with modern amenities.",
+      "contact": "02992-269200",
+      "price": "₹4,000 per night",
+      "image": "/assets/hotels/tulip.jpg"
+    },
+    {
+      "name": "Hotel Lalgarh Fort & Palace",
+      "description": "Fort-style architecture and city view.",
+      "contact": "02992-252288",
+      "price": "₹3,000 per night",
+      "image": "/assets/hotels/lalgarh.jpg"
+    }
+  ]
+}

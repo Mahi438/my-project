@@ -1,0 +1,95 @@
+{
+  "restaurants": [
+    {
+      "name": "Handi Restaurant",
+      "image": "/assets/restaurants/handi.jpeg",
+      "contact": "+91 141 2226700",
+      "price": "₹800 for two",
+      "description": "Famous for its delicious Laal Maas and rooftop dining with a heritage view."
+    },
+    {
+      "name": "Spice Court",
+      "image": "/assets/restaurants/spice-court.jpg",
+      "contact": "+91 141 2353999",
+      "price": "₹1000 for two",
+      "description": "A fine dine Rajasthani restaurant offering authentic local thalis and kebabs."
+    },
+    {
+      "name": "RJ14",
+      "image": "/assets/restaurants/rj14.avif",
+      "contact": "+91 9829012345",
+      "price": "₹700 for two",
+      "description": "Pure veg garden-themed restaurant known for its ambiance and North Indian food."
+      
+    },
+    {
+      "name": "Bar Palladio",
+      "image": "/assets/restaurants/bar-palladio.jpg",
+      "contact": "+91 141 2565555",
+      "price": "₹1800 for two",
+      "description": "Luxury Italian restaurant set in a royal blue Mughal-style décor, perfect for evenings."
+    }
+  ],
+
+  "places": [
+    {
+      "name": "Amber Fort",
+      "image": "/assets/places/amber-fort.jpg",
+      "contact": "Open: 8AM – 6PM",
+      "price": "₹100 Entry",
+      "description": "Massive hilltop fort with elephant rides, history exhibits, and scenic views."
+    },
+    {
+      "name": "City Palace",
+      "image": "/assets/places/city-palace.jpg",
+      "contact": "Open: 9AM – 5PM",
+      "price": "₹130 Entry",
+      "description": "A blend of Rajasthani and Mughal architecture in the heart of Jaipur."
+    },
+    {
+      "name": "Hawa Mahal",
+      "image": "/assets/places/hawa-mahal.jpg",
+      "contact": "Open: 10AM – 4:30PM",
+      "price": "₹50 Entry",
+      "description": "Iconic palace with 953 small windows designed for royal ladies to view the streets."
+    },
+    {
+      "name": "Jantar Mantar",
+      "image": "/assets/places/jantar-mantar.jpg",
+      "contact": "Open: 9AM – 4PM",
+      "price": "₹40 Entry",
+      "description": "UNESCO World Heritage site with ancient astronomical instruments."
+    }
+  ],
+
+  "hotels": [
+    {
+      "name": "Taj Rambagh Palace",
+      "image": "/assets/hotels/rambagh.jpg",
+      "contact": "+91 141 2385700",
+      "price": "₹25,000/night",
+      "description": "5-star former royal palace with gardens, luxurious rooms and fine dining."
+    },
+    {
+      "name": "Hilton Jaipur",
+      "image": "/assets/hotels/hilton.jpg",
+      "contact": "+91 141 4170000",
+      "price": "₹8,000/night",
+      "description": "Modern luxury hotel with rooftop pool, spa, and central location."
+    },
+    {
+      "name": "Umaid Bhawan Heritage House",
+      "image": "/assets/hotels/umaid-bhawan.jpg",
+      "contact": "+91 141 2206426",
+      "price": "₹3,000/night",
+      "description": "Budget-friendly heritage-style stay with traditional Rajasthani décor."
+    },
+    {
+      "name": "Alsisar Haveli",
+      "image": "/assets/hotels/alsisar.jpg",
+      "contact": "+91 141 2368290",
+      "price": "₹4,500/night",
+      "description": "Royal mansion turned hotel featuring vintage rooms and courtyards."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea4d13b1.css",
+    "main.js": "/static/js/main.7d5b78e8.js",
+    "static/js/453.30e62664.chunk.js": "/static/js/453.30e62664.chunk.js",
+    "static/media/river.jpg": "/static/media/river.e6dabedb21b98721bf50.jpg",
+    "static/media/logo.png": "/static/media/logo.df5c0121824775756431.png",
+    "static/media/udaipur.jpg": "/static/media/udaipur.aeb5bf9ee7507152bd26.jpg",
+    "static/media/hawa-mahal.jpg": "/static/media/hawa-mahal.7ae3fa2dc4027da6d4a1.jpg",
+    "static/media/jodhpur.jpg": "/static/media/jodhpur.d015a3440444017c99ac.jpg",
+    "static/media/fort.jpg": "/static/media/fort.8e37a1e7437e3c11f35c.jpg",
+    "static/media/camel.jpg": "/static/media/camel.e35d8040c7b498be27e2.jpg",
+    "static/media/jaipur.jpg": "/static/media/jaipur.b1011705b9d9dc318c29.jpg",
+    "static/media/jaisalmer.jpg": "/static/media/jaisalmer.e4e7dc4446bc90f7641c.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ea4d13b1.css.map": "/static/css/main.ea4d13b1.css.map",
+    "main.7d5b78e8.js.map": "/static/js/main.7d5b78e8.js.map",
+    "453.30e62664.chunk.js.map": "/static/js/453.30e62664.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea4d13b1.css",
+    "static/js/main.7d5b78e8.js"
+  ]
+}
