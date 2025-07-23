@@ -1,13 +1,13 @@
 .plan-container {
   padding: 50px 20px;
-  background: #fff6f0;
+  background: white;
   font-family: 'Georgia', serif;
   display: flex;
   justify-content: center;
 }
 
 .plan-box {
-  background: #fff;
+  background: rgb(206, 197, 197);
   padding: 40px;
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
@@ -16,7 +16,7 @@
 }
 
 .plan-box h1 {
-  color: #d35400;
+  color: black;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -25,7 +25,7 @@
   display: block;
   margin-top: 15px;
   font-weight: bold;
-  color: #5a3200;
+  color: black;
 }
 
 .plan-form input,

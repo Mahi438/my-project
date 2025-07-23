@@ -1,10 +1,7 @@
 // src/components/LoginSignup.jsx
 import React, { useState } from "react";
 import { auth } from "../FirebaseConfig";
-import {
-  createUserWithEmailAndPassword,
-  signInWithEmailAndPassword,
-} from "firebase/auth";
+import {createUserWithEmailAndPassword,signInWithEmailAndPassword,} from "firebase/auth";
 import { useNavigate } from "react-router-dom";
 import "../App.css";
 
@@ -58,7 +55,7 @@ const LoginSignup = () => {
         style={{
           marginTop: "10px",
           cursor: "pointer",
-          color: "blue",
+          color: "black",
           textAlign: "center",
           fontSize:"17px",
         }}

@@ -1,7 +1,7 @@
 /* src/components/Booking.css */
 
 .booking-container {
-  background-color: #fff9f3;
+  background-color:rgb(206, 197, 197);
   padding: 40px 20px;
   font-family: "Georgia", serif;
   max-width: 600px;
@@ -12,7 +12,7 @@
 
 .booking-container h2 {
   text-align: center;
-  color: #d35400;
+  color: black;
   font-size: 28px;
   margin-bottom: 30px;
 }
@@ -26,7 +26,7 @@
 .booking-form label {
   font-size: 16px;
   font-weight: bold;
-  color: #5c3c02;
+  color: black;
 }
 
 .booking-form input,

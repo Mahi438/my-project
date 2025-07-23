@@ -1,26 +1,27 @@
 .footer-pro {
   width: 100%;
-  background: #172941;
-  color: #e6e6e6;
+  background-color: #ebd6b1; /* Dark brown */
+  color: black;
   text-align: center;
-  padding: 1.3rem 2.5rem 1.5rem 2.5rem;
-  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
-  font-size: 1.08rem;
+  padding: 10px 30px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.05rem;
   font-weight: 400;
   letter-spacing: 0.03em;
-  line-height: 1.7;
-  border-top: 1px solid #23345d;
-  box-shadow: 0 -2px 10px 0 rgba(20,30,50,0.07);
-  margin-top: auto;
+  line-height: 1.6;
+  box-shadow: 0 -2px 15px rgba(0, 0, 0, 0.15);
 }
+
 .footer-heart {
   color: #ff4f81;
-  font-size: 1.15em;
+  font-size: 1.2rem;
   vertical-align: middle;
   margin: 0 0.2em;
 }
+
 @media (max-width: 900px) {
   .footer-pro {
-    padding: 1.3rem 1.3rem 1.5rem 1.3rem;
-    font-size:1rem;
-} }
+    padding: 1.3rem;
+    font-size: 1rem;
+  }
+}

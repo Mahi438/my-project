@@ -8,10 +8,9 @@ const Footer = () => {
     <footer className="footer-pro">
       <div className="footer-inner">
         <p>
-          © {currentYear} StayEase Hotel Management System. All rights reserved. | Built with
-          <span className="footer-heart">♥</span>
-          for exceptional hospitality experience
-        </p>
+          © {currentYear} Rajasthan Tourism. All rights reserved. | Crafted with
+          <span className="footer-heart">♥</span> to celebrate royal heritage and vibrant culture.
+        </p>
       </div>
     </footer>
   );

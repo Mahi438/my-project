@@ -24,4 +24,4 @@ const auth = getAuth(app);      // 🔐 For authentication (login/signup)
 const db = getFirestore(app);   // 📦 For Firestore database
 
 // ✅ Export both
-export { auth, db };
+export {auth,db};

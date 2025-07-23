@@ -1,5 +1,3 @@
-import React, { useState } from "react";
-import { useNavigate } from "react-router-dom";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -11,32 +9,14 @@ import fort from "../assets/fort.jpg";
 import river from "../assets/river.jpg";
 
 const HeroSection = () => {
-  const navigate = useNavigate();
-  const [searchText, setSearchText] = useState("");
-  const [showSuggestions, setShowSuggestions] = useState(false);
-
-  const cities = [
-    { name: "Jaipur", path: "/jaipur" },
-    { name: "Udaipur", path: "/udaipur" },
-    { name: "Jodhpur", path: "/jodhpur" },
-    { name: "Jaisalmer", path: "/jaisalmer" }
-  ];
+ 
 
   const handleScroll = () => {
     const section = document.getElementById("explore-cities");
     if (section) section.scrollIntoView({ behavior: "smooth" });
   };
 
-  const handleSearchClick = () => {
-    const match = cities.find(city =>
-      city.name.toLowerCase() === searchText.trim().toLowerCase()
-    );
-    if (match) {
-      navigate(match.path);
-    } else {
-      alert("City not found!");
-    }
-  };
+  
 
   const settings = {
     dots: true,
@@ -50,10 +30,7 @@ const HeroSection = () => {
     arrows: false
   };
 
-  const filteredSuggestions = cities.filter(city =>
-    city.name.toLowerCase().includes(searchText.toLowerCase()) &&
-    searchText.trim() !== ""
-  );
+  
 
   const images = [hawaMahal, camel, fort, river];
 
@@ -74,36 +51,8 @@ const HeroSection = () => {
       {/* Overlay fixed on top */}
       <div className="hero-overlay">
         <div className="hero-search-box">
-          <input
-            type="text"
-            className="hero-search"
-            placeholder="Search cities..."
-            value={searchText}
-            onChange={(e) => {
-              setSearchText(e.target.value);
-              setShowSuggestions(true);
-            }}
-          />
-          <button className="search-btn" onClick={handleSearchClick}>
-            Search
-          </button>
-
-          {showSuggestions && filteredSuggestions.length > 0 && (
-            <ul className="search-suggestions">
-              {filteredSuggestions.map((city, index) => (
-                <li
-                  key={index}
-                  onClick={() => {
-                    navigate(city.path);
-                    setSearchText("");
-                    setShowSuggestions(false);
-                  }}
-                >
-                  {city.name}
-                </li>
-              ))}
-            </ul>
-          )}
+       
+         
         </div>
 
         <h1>Welcome to Royal Rajasthan</h1>
